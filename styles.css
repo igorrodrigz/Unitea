@@ -46,10 +46,11 @@ footer {
     bottom: 0;
 }
 
-.banner {
+banner {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: auto;
     height: 200px; /* Ajuste a altura conforme necessário */
     background-color: #f0f0f0; /* Ajuste a cor de fundo conforme necessário */
 }
